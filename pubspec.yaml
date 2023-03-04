@@ -1,7 +1,7 @@
 name: hey_sd_reader
 description: Sample Package for SoftwareDesign May 2023.
 version: 0.0.1
-homepage: https://github.com/sugitlab
+homepage: https://github.com/sugitlab/hey_sd_reader
 
 environment:
   sdk: '>=2.19.0 <3.0.0'
