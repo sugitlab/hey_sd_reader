@@ -1,10 +1,10 @@
 name: hey_sd_reader
-description: Sample Package for SoftwareDesign May 2023.
-version: 0.0.1
+description: Sample Package for SoftwareDesign May 2023. This package includes one Flutter Widget named "HeySdReader". HeySdReader widget is just a simple ElevatedButton and that shows the Alert Dialog with message "HEY SD READER!!". This package is for explaining how to publish your original widget to 'pub.dev' .
+version: 0.0.2
 homepage: https://github.com/sugitlab/hey_sd_reader
 
 environment:
-  sdk: '>=2.19.0 <3.0.0'
+  sdk: ">=2.19.0 <3.0.0"
   flutter: ">=1.17.0"
 
 dependencies:
